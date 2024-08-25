@@ -1,0 +1,10 @@
+<pre><br />
+<b>Warning</b>:  Undefined variable $image in <b>C:\xampp\htdocs\book\book_details.php</b> on line <b>12</b><br />
+<br />
+<b>Warning</b>:  file_get_contents(A.A.A. PRICE LIST 15-04-2022 (1).pdf): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\book\book_details.php</b> on line <b>12</b><br />
+<br />
+<b>Fatal error</b>:  Uncaught ValueError: Path cannot be empty in C:\xampp\htdocs\book\book_details.php:12
+Stack trace:
+#0 C:\xampp\htdocs\book\book_details.php(12): file_put_contents('', false)
+#1 {main}
+  thrown in <b>C:\xampp\htdocs\book\book_details.php</b> on line <b>12</b><br />
